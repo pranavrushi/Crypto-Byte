@@ -1,4 +1,4 @@
-# Cryptoverse - Explore the World of Cryptocurrency
+# Crypto-Byte - The Collection of CryptINFO
 
 ![Cryptoverse](https://i.ibb.co/8gh5Jc8/image.png)
 
