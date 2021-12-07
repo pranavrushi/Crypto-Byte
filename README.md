@@ -10,4 +10,5 @@
 This is a application that displays the entire information of cryptocurrencies
 
 this is build using React.js , Ant Design , state management using Redux Toolkit , 
+
 and  fetching data using RapidAPI...
