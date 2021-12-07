@@ -1,6 +1,6 @@
 # Crypto-Byte - The Collection of CryptINFO
 
-![Cryptoverse](https://i.ibb.co/8gh5Jc8/image.png)
+![Cryptoverse](https://github.com/pranavrushi/Crypto-Byte/blob/main/cb4.jpg)
 
 ## Introduction
 This is a code repository for the corresponding video tutorial. 
