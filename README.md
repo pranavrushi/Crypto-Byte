@@ -1,33 +1,10 @@
-# Crypto-Byte - The Collection of CryptINFO
+# Cryptoverse - Explore the World of Cryptocurrency
 
-![Crypto-Byte](https://github.com/pranavrushi/Crypto-Byte/blob/main/cb1.jpg)
-![cb](https://github.com/pranavrushi/Crypto-Byte/blob/main/cb2.jpg)
-![cb](https://github.com/pranavrushi/Crypto-Byte/blob/main/cb3.jpg)
-![cb](https://github.com/pranavrushi/Crypto-Byte/blob/main/cb4.jpg)
-  
+![Cryptoverse](https://i.ibb.co/8gh5Jc8/image.png)
 
 ## Introduction
-This is a application that displays the entire information of cryptocurrencies
+This is a code repository for the corresponding video tutorial. 
 
-this is build using React.js , Ant Design , state management using Redux Toolkit , 
+In this video, we will create a cryptocurrency app. We're going to use React and multiple APIs powered by https://rapidapi.com.
 
-and  fetching data using RapidAPI...
-
-## Building and running on localhost
-
-First install dependencies:
-
-```sh
-npm install
-```
-
-To run in hot module reloading mode:
-
-```sh
-npm start
-```
-
-To create a production build:
-
-```sh
-npm run build-prod
+By the end of this video, you will become the master of working with APIs.
